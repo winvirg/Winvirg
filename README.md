@@ -4,15 +4,15 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
 
-- 🌱 Estou atualmente aprendendo [Desenvolvimento Web](#) usando ReactJS e NodeJS.
+- 🌱 Estou atualmente aprendendo Desenvolvimento Web usando ReactJS e NodeJS.
 - 💼 Estou procurando oportunidades de emprego na área de desenvolvimento web.
-- 🎓 Graduado em [Nome do Curso/Área] na [Nome da Instituição].
+- 🎓 Graduando em Engenharia de Software na UniCesumar.
 
 ## Habilidades
 
-- **Linguagens de Programação:** JavaScript, HTML, CSS
+- **Linguagens de Programação:** JavaScript, HTML, CSS, C, Java OO.
 - **Frameworks/Libraries:** ReactJS, NodeJS
-- **Banco de Dados:** MongoDB
+- **Banco de Dados:** PostgresSql, MySql, MongoDB
 - **Outras Ferramentas:** Git, VSCode
 
 ## Projetos em Destaque
@@ -23,8 +23,8 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](#)
-- Email: [Seu Endereço de Email](#)
+- LinkedIn: [Thiago Winvirg](https://www.linkedin.com/in/thiagowinvirg/)
+- Email: thiagowinvirg@gmail.com
 - Website: [Seu Website Pessoal/Blog](#)
 
 ## Estatísticas do GitHub
