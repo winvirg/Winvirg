@@ -17,15 +17,15 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Projetos em Destaque
 
-- [Nome do Projeto](#) - Breve descrição do projeto.
-- [Nome do Projeto](#) - Breve descrição do projeto.
+- [Task Master](https://github.com/winvirg/TaskTracker) - O TaskMaster é permite que os usuários adicionem, visualizem, excluam e editem tarefas de forma rápida e eficiente.
+- [Conversor de medida](https://github.com/winvirg/winvirg.github.io) - Um conversor de medida de regua para tanque de mil litros feito para ajudar produtores locais.
 - [Nome do Projeto](#) - Breve descrição do projeto.
 
 ## Contato
 
 - LinkedIn: [Thiago Winvirg](https://www.linkedin.com/in/thiagowinvirg/)
-- Email: thiagowinvirg@gmail.com
-- Website: [Seu Website Pessoal/Blog](#)
+- Email: [Thiago Winvirg](mailto:thiagowinvirg@gmail.com)
+- Discord: [Winvirg](discordapp.com/users/286958510170963969)
 
 ## Estatísticas do GitHub
 
